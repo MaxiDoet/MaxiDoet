@@ -1,8 +1,8 @@
-![TheHeroCraft1579's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHeroCraft1579&theme=radical)
+![TheHeroCraft1579's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHeroCraft1579&theme=radical&bg_color=100,#ff6b6b,#595bff)
 
 
 ## My Projects
-[![OS](https://github-readme-stats.vercel.app/api/pin/?username=TheHeroCraft1579&repo=os&bg_color=100,#ff6b6b,#595bff)](https://github.com/TheHeroCraft1579/os)
+[![OS](https://github-readme-stats.vercel.app/api/pin/?username=TheHeroCraft1579&repo=os)](https://github.com/TheHeroCraft1579/os)
 [![RPIWAVE-UI](https://github-readme-stats.vercel.app/api/pin/?username=TheHeroCraft1579&repo=rpiwave-ui&theme=radical)](https://github.com/TheHeroCraft1579/rpiwave-ui)
 
 
