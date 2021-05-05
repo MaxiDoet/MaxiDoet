@@ -1,4 +1,4 @@
-![TheHeroCraft1579's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHeroCraft1579&bg_color=100,ff6b6b,595bff)
+![TheHeroCraft1579's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHeroCraft1579&bg_color=100,ff6b6b,595bff&title_color=ffffff)
 
 
 ## My Projects
