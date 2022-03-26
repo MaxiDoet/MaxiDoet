@@ -3,6 +3,7 @@
 
 ## My Projects
 [![OS](https://github-readme-stats.vercel.app/api/pin/?username=MaxiDoet&repo=os&theme=dracula&title_color=ffffff)](https://github.com/MaxiDoet/os)\
+[![gameboy-emulator](https://github-readme-stats.vercel.app/api/pin/?username=MaxiDoet&repo=gameboy-emulator&theme=dracula&title_color=ffffff)](https://github.com/MaxiDoet/gameboy-emulator)\
 \
 \
 \
